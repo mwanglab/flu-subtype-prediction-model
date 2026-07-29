@@ -1,0 +1,11 @@
+Region,A/H3N2,,,A/H1N1,,
+,genetic strains sample size,Laboratory-detected positive cases number,Proportion (%),genetic strains sample size,Laboratory-detected positive cases number,Proportion (%)
+NY,680,5094,13.35,843,3488,24.17
+CA,1448,26933,5.38,1228,39316,3.12
+UK,1967,32462,6.06,2905,34785,8.35
+HK,754,85725,0.88,534,56596,0.94
+NZ,415,1610,25.78,248,1442,17.2
+SG,1088,5300,20.53,1699,9181,18.51
+TH,738,3348,22.04,640,4083,15.67
+,,,,,,
+"CA: California, HK: Hong Kong SAR, NY: New York, NZ: New Zealand, SG: Singapore, TH: Thailand, UK: United Kingdom.",,,,,,
