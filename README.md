@@ -22,10 +22,10 @@ Main Input:
    - A/H3N2 HA sequences (file name: SGH3_HA_sequence.fasta)
    - Source: GISAID flu database
   2. Laboratory-based influenza surveillance data (file name: SG_seropositivity_rate.csv)
-     - total_speciman: number of specimens tested
-     - h1n1pdm09_positive: number of A/H1N1pdm09 positive specimens
-     - h3n2_positive: number of A/H3N2 positive specimens
-     - Source: WHO GISRS FluNet
+   - total_speciman: number of specimens tested
+   - h1n1pdm09_positive: number of A/H1N1pdm09 positive specimens
+   - h3n2_positive: number of A/H3N2 positive specimens
+   - Source: WHO GISRS FluNet
 
 Main Output
  1. Regression model: log(H3_rate / H1_rate) = beta0 + beta1 * log(H3_g / H1_g)
