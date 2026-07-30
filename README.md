@@ -9,7 +9,7 @@ This repository provides an R implementation of the dominant influenza A serotyp
   Predicting the dominant influenza A serotype by quantifying mutation activities. 
   Int J Infect Dis. 2020;100:255-257. doi:10.1016/j.ijid.2020.08.053
 
-The model quantifies genetic mutation activity (g-measure) from hemagglutinin (HA) protein sequences of A/H1N1 and A/H3N2, and infersthe dominant probability of each influenza A subtypesby in the upcoming influenza season using a log-odds linear regression framework. A positive relationship between relative genetic activity and relative epidemic prevalence is established. A 5-fold cross-validation is used to assess model discrimination performance.
+The model quantifies genetic mutation activity (g-measure) from hemagglutinin (HA) protein sequences of A/H1N1 and A/H3N2, and infers the dominant probability of each influenza A subtypesby in the upcoming influenza season using a log-odds linear regression framework. A positive relationship between relative genetic activity and relative epidemic prevalence is established. A 5-fold cross-validation is used to assess model discrimination performance.
 
 
 Input and Output
