@@ -40,6 +40,7 @@ R Dependencies
 R (>= 4.1.3) or newer version is required. To download R, please see: https://www.r-project.org/
 
 Required R packages:
+  
   Biostrings (2.64.1) : https://bioconductor.org/packages/release/bioc/html/Biostrings.html
   
   lubridate  (1.8.0)  : https://www.rdocumentation.org/packages/lubridate/versions/1.8.0
@@ -51,6 +52,7 @@ Required R packages:
   tibble     (3.0.0)  : https://www.rdocumentation.org/packages/tibble
 
 Install packages in R:
+  
   install.packages(c("lubridate", "plyr", "dplyr", "tibble"))
   if (!require("BiocManager", quietly = TRUE)) install.packages("BiocManager")
   BiocManager::install("Biostrings")
