@@ -51,12 +51,6 @@ Required R packages:
   
   tibble     (3.0.0)  : https://www.rdocumentation.org/packages/tibble
 
-Install packages in R:
-  
-  install.packages(c("lubridate", "plyr", "dplyr", "tibble"))
-  if (!require("BiocManager", quietly = TRUE)) install.packages("BiocManager")
-  BiocManager::install("Biostrings")
-
 
 Step-by-step Description and Code Execution
 ------------------------
