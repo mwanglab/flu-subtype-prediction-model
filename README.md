@@ -82,9 +82,11 @@ Note: Because Singapore represents a single region with a limited number of seas
 Data Availability & Acknowledgements
 -------------------------------------
 Influenza genetic sequences were obtained from:
+  
   Global Initiative on Sharing All Influenza Data (GISAID): https://www.gisaid.org/
 
 Laboratory surveillance data were obtained from:
+  
   WHO Global Influenza Surveillance and Response System (GISRS): https://www.who.int/initiatives/global-influenza-surveillance-and-response-system
 
 Detailed data sources for each region are listed in Supplementary Materials S1 of the paper.
