@@ -7,7 +7,7 @@ if (!require("BiocManager", quietly = TRUE)) install.packages("BiocManager")
 BiocManager::install("Biostrings")
 
 # set working dictionary and library packages
-setwd("./dominant subtype prediction/toydata")
+setwd("./flu-subtype-prediction-model-main/toydata")
 library(Biostrings)  
 library(lubridate)   
 library(plyr)        
